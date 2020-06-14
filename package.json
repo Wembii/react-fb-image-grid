@@ -1,7 +1,7 @@
 {
   "name": "react-fb-image-grid",
-  "version": "0.1.5",
-  "description": "A beautifully featured image grid library for React which represents the images just like the facebook grid images with the count for extra as well",
+  "version": "0.2.0",
+  "description": "Facebook Grid preview",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -23,7 +23,8 @@
     "@material-ui/core": "^3.1.2",
     "@material-ui/icons": "^3.0.1",
     "react-bootstrap": "^0.32.4",
-    "react-image-lightbox": "^5.0.0"
+    "react-image-lightbox": "^5.0.0",
+    "nwb": "0.23.x"
   },
   "peerDependencies": {
     "react": "16.x"
